@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ebrahim Ghantiwala</h1>
-<a href="#"><img width="100%" src="Insert gem.png" height="400px"/></a>
+<a href="https://storyset.com/data">Data illustrations by Storyset</a>
 <h3 align="center">Inflamed with passion</h3>
 
 - 🔭 I’m currently working on **Smart Elevator System**
