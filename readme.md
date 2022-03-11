@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ebrahim Ghantiwala</h1>
-<a href="#"><img width="100%" src="pan.svg"/></a>
+<a href="#"><img width="100%" src="pan.svg" height="350px"/></a>
 <h3 align="center">Inflamed with passion</h3>
 
 - 🔭 I’m currently working on **Smart Elevator System**
