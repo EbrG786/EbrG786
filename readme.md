@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ebrahim Ghantiwala</h1>
 <h3 align="center">Data visualization makes me happy!</h3>
-<center><img style="text-align:center" src="https://media.giphy.com/media/DhstvI3zZ598Nb1rFf/giphy-downsized-large.gif"/></center>
+<p align="center">
+<img src="https://media.giphy.com/media/DhstvI3zZ598Nb1rFf/giphy-downsized-large.gif">
+</p>
 <h3 align="center">IT Undergrad, Data visualization enthusiast</h3>
 
 <ul>
