@@ -23,7 +23,7 @@ Students will be able to chat with representatives of universities directly from
   <li><h2><a href="https://car-booking-system.000webhostapp.com/index.php">Car rental system</a></h2></li>
   <p>The function of an online car rental and booking system is to take inputs related to the user such as their email ID and password for login information. 
 This web app administers the users’ account on the go. The frontend is very convenient for customers so they can quickly make bookings with you and see your news and promotions. The app also comes with a payment receipt generation towards the end of the rental transaction process. Users can make their payments towards the starting of the renting period, taking into consideration the number of hours the rental car would be booked for. If a driver decides to rent a car beforehand, they go to a car rental website or app and find a vehicle that meets their needs. Then, they book it and pay for the chosen rental period, if upfront payment is required. On the appointed day, this customer arrives at the car rental location to pick up the chosen car. An agent makes copies of their IDs, explains the terms of the lease, instructs them on any special features of the car, and finally hands them the keys. When the customer drops off the car, the agent checks its mileage and inspects for any damages.</p>
-  <li><h2><a href="https://car-booking-system.000webhostapp.com/index.php">StudyRooms</a></h2></li>
+  <li><h2>StudyRooms</h2></li>
   <p>StudyRooms are rooms where people around the world can join in and discuss about the topics and also solve each others doubts.</p>
 </ul>
 
