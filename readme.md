@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,I'm Ebrahim Ghantiwala</h1>
-<h3 align="center">Data visualization makes me happy!</h3>
+<h3 align="center">Web Dev makes me happy!</h3>
 <p align="center">
 <img src="https://media.giphy.com/media/l0amJzVHIAfl7jMDos/giphy.gif">
 </p>
-<h3 align="center">IT Undergrad, Data visualization enthusiast</h3>
+<h3 align="center">IT Undergrad, Frontend enthusiast</h3>
 
 <ul>
   <li><h2>Data analysis Projects</h2></li>
