@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,I'm Ebrahim Ghantiwala</h1>
-[![@mishmanners's Holopin board](https://holopin.io/api/user/board?user=mishmanners)](https://holopin.io/@mishmanners)
+##pins
 [![@ebr's Holopin board](https://holopin.me/ebr)](https://holopin.io/@ebr)
 <h3 align="center">IT Undergrad, Frontend enthusiast</h3>
 
