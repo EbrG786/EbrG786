@@ -1,6 +1,5 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,I'm Ebrahim Ghantiwala</h1>
-### Pins:
 [![@ebr's Holopin board](https://holopin.me/ebr)](https://holopin.io/@ebr)
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,I'm Ebrahim Ghantiwala</h1>
 <h3 align="center">IT Undergrad, Frontend enthusiast</h3>
 
 <ul>
