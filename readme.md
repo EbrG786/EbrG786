@@ -1,7 +1,8 @@
 [![@ebr's Holopin board](https://holopin.me/ebr)](https://holopin.io/@ebr)
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,I'm Ebrahim Ghantiwala</h1>
 <h3 align="center">IT Undergrad,Open Source enthusiast</h3>
-
+<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{EbrG76}/count.svg" alt="EbrG786 Visitor's count" /></p>
 <ul>
   <li><h2>Data analysis Projects</h2></li>
     <ul>
